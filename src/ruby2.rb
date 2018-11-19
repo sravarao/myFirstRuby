@@ -7,7 +7,7 @@ def new_function
   puts('hi')
 
 end
-
+#comment
 
 two = 2
 some_number = 10_000_000
