@@ -44,4 +44,4 @@ NUMBER_OF_CLASSES = 10
 A = 11
 
 print A
-puts "hi"
+puts "hi world"
